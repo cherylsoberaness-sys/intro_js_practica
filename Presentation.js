@@ -8,6 +8,8 @@ const profile = {
                         'Control structures and loops',
                         'Data abstraction and high level functions',
                         'functional programming',
+                        'fundamentals of POO',
+                        'data modeling and SQL',
                         'git, version control',
                         'Web operation and cookies',
                         'HTTP and HTTPS',
@@ -18,6 +20,7 @@ const profile = {
                         'Object Spreading and destructuring',
                         'Modules',
                         'Asynchrony: Promise and Async-await',
+                        'classes, objects and prototypes'
                     ],
     previousExperience: false,
     socialNetworks: [
