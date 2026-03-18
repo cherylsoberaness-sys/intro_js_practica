@@ -1,8 +1,8 @@
-# 🧠 JavaScript Practice – Async, Arrays & Data Handling
+# JavaScript Practice – Async, Arrays & Data Handling
 
 This repository contains a collection of JavaScript exercises focused on strengthening core programming skills through practical scenarios and real-world-like data.
 
-## 🚀 What’s covered
+## What’s covered
 
 * Asynchronous JavaScript (Promises, async/await)
 * Array methods (`filter`, `map`, `flatMap`, `some`)
@@ -10,9 +10,8 @@ This repository contains a collection of JavaScript exercises focused on strengt
 * Working with nested objects
 * Problem-solving with structured data
 
----
 
-## ⚙️ Asynchronous Behavior
+## Asynchronous Behavior
 
 This section explores how JavaScript handles asynchronous operations and why improper handling can lead to unexpected results like `undefined`.
 
@@ -21,9 +20,8 @@ A common issue is demonstrated where a function attempts to return data before a
 * Promises
 * async/await
 
----
 
-## 📊 Data Processing & Transformation
+## Data Processing & Transformation
 
 Working with a dataset of developers, different techniques are applied to:
 
@@ -33,9 +31,7 @@ Working with a dataset of developers, different techniques are applied to:
 
 Reusable utility functions are also implemented to make data filtering more flexible and scalable.
 
----
-
-## 🚗 Structured Data Handling
+## Structured Data Handling
 
 A more complex dataset simulates a vehicle management system. The code demonstrates how to:
 
@@ -46,24 +42,17 @@ A more complex dataset simulates a vehicle management system. The code demonstra
 
 This section focuses on navigating and transforming deeply nested objects.
 
----
-
-## 🛠 Technologies
+## Technologies
 
 * JavaScript (ES6+)
 
----
-
-## 💡 Purpose
+## Purpose
 
 This repository reflects my approach to learning by building and solving practical problems. The focus is on writing clear, functional code while improving problem-solving skills.
 
----
-
-## 📈 Next Steps
+## Next Steps
 
 * Expand scenarios with more complex logic
 * Improve modularity and code organization
 * Add testing and edge case handling
 
----
